@@ -1,0 +1,691 @@
+{
+  "session_id": "2026-09-10-ucc-unrecorded-cessation",
+  "timestamp": "2026-09-10T13:40:00-04:00",
+  "winning_class": "Unrecorded-Cessation Class",
+  "novelty_cap": 0.47,
+  "coherence": 0.76,
+  "primary": {
+    "id": "CCZ_UNNAMED",
+    "name": "Clarion-Clipperton Zone unnamed fauna under mining contracts",
+    "realm": "ocean",
+    "sense": "touch",
+    "status": "STRUCTURAL_GAP",
+    "score": 90.16,
+    "failed_gates": [],
+    "reasons": [],
+    "source": "NHM CCZ checklist; Earth.com 2026-09-09; ISA 17 exploration contracts",
+    "source_date": "2026-09-09",
+    "known_fact": "5,578 animal species recorded in the CCZ; only 436 formally described; 88\u201392% lack names; 17 international exploration contracts sit on the same seafloor.",
+    "gap_statement": "Extraction licensed against organisms that have no Red List identity, hence no legal death. Census is not a precondition of the license.",
+    "notes": "Not DIC (the habitat, not a single seen specimen, is consumed). Not CIC (the issue is namelessness, not clock mismatch).",
+    "gates": {
+      "G1": true,
+      "G2": true,
+      "G3": true,
+      "G4": true,
+      "G5": true,
+      "G6": true,
+      "G7": true,
+      "G8": true
+    },
+    "prior_class_overlap": ""
+  },
+  "status_counts": {
+    "STRUCTURAL_GAP": 4,
+    "PENALIZED": 7,
+    "KILLED": 7,
+    "ZEROED": 2
+  },
+  "ranked": [
+    {
+      "id": "CCZ_UNNAMED",
+      "name": "Clarion-Clipperton Zone unnamed fauna under mining contracts",
+      "realm": "ocean",
+      "sense": "touch",
+      "status": "STRUCTURAL_GAP",
+      "score": 90.16,
+      "failed_gates": [],
+      "reasons": [],
+      "source": "NHM CCZ checklist; Earth.com 2026-09-09; ISA 17 exploration contracts",
+      "source_date": "2026-09-09",
+      "known_fact": "5,578 animal species recorded in the CCZ; only 436 formally described; 88\u201392% lack names; 17 international exploration contracts sit on the same seafloor.",
+      "gap_statement": "Extraction licensed against organisms that have no Red List identity, hence no legal death. Census is not a precondition of the license.",
+      "notes": "Not DIC (the habitat, not a single seen specimen, is consumed). Not CIC (the issue is namelessness, not clock mismatch).",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": true
+      },
+      "prior_class_overlap": ""
+    },
+    {
+      "id": "KATUS_KEW_2026",
+      "name": "Katu\u0161 shortfall \u2014 unrecorded plant/fungal extinction",
+      "realm": "land",
+      "sense": "vision",
+      "status": "STRUCTURAL_GAP",
+      "score": 89.56,
+      "failed_gates": [],
+      "reasons": [],
+      "source": "Kew, State of the World's Plants and Fungi 2026",
+      "source_date": "2026-09-10",
+      "known_fact": "29,748 plant species and 411 fungal species assessed as threatened; only 18% of plants and 0.6% of fungi have been assessed; >100,000 plant species and >2 million fungal species remain unnamed; 4,600 plants and 7,800 fungi newly named in 2024\u20132025; ghost palm Plectocomiopsis hantu named 92 years after first collection. Kew names this the Katu\u0161 shortfall: unrecorded loss of known AND unknown species.",
+      "gap_statement": "An unnamed plant or fungus can go extinct without minting a death certificate. Red List cannot list what has no name. The loss is real; the record is structurally impossible.",
+      "notes": "TODAY'S LOCK. Kew named the biodiversity instance. Class is the cross-realm remainder.",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": true
+      },
+      "prior_class_overlap": ""
+    },
+    {
+      "id": "SOIL_NEMATODE",
+      "name": "Soil nematode cessations without species identity",
+      "realm": "land",
+      "sense": "chemical",
+      "status": "STRUCTURAL_GAP",
+      "score": 76.04,
+      "failed_gates": [],
+      "reasons": [],
+      "source": "Van den Hoogen et al. 2019; Grilo/EA 2026; Kuzyakov et al. Soil Biology & Biochemistry Jan 2026",
+      "source_date": "2026-01",
+      "known_fact": "4.4e20 nematodes in top 15 cm globally. Functions of most soil-relevant prokaryotes remain unknown. Grand questions in soil biology still include 'which level of understanding of microbial communities do we need?'",
+      "gap_statement": "Tillage, pesticide, and land-use change can cease unnamed soil taxa without a species-level event.",
+      "notes": "Allowed UCC. Not wood-wide web (IOA, zeroed as Type I). Function-unknown is the certificate-absence of processes.",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": true
+      },
+      "prior_class_overlap": ""
+    },
+    {
+      "id": "LANGUAGE_DEATH",
+      "name": "Last-speaker ecological knowledge cessation",
+      "realm": "humans",
+      "sense": "hearing",
+      "status": "STRUCTURAL_GAP",
+      "score": 61.2,
+      "failed_gates": [],
+      "reasons": [],
+      "source": "UNESCO language endangerment; ethnobiology last-speaker literature (general, not a 2026 lock)",
+      "source_date": "ongoing",
+      "known_fact": "When a last speaker dies, unnamed organism-knowledge (local taxa, uses, seasonal clocks) dies with them.",
+      "gap_statement": "A folk taxon with no Linnaean mapping cannot generate a scientific extinction or knowledge-loss certificate.",
+      "notes": "Allowed but not primary: not today's lock, literature-old, still a clean UCC instance in the human realm.",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": true
+      },
+      "prior_class_overlap": ""
+    },
+    {
+      "id": "NASA_41_CANCEL",
+      "name": "41 NASA science missions cancelled \u2014 witness retraction",
+      "realm": "space",
+      "sense": "vision",
+      "status": "PENALIZED",
+      "score": 38.34,
+      "failed_gates": [
+        "G2"
+      ],
+      "reasons": [
+        "Soft archive overlap: INSTITUTIONAL \u2014 penalized, not promoted"
+      ],
+      "source": "Planetary Society, 2026-09-09; OMB May 2025 plan, 47% science cut",
+      "source_date": "2026-09-09",
+      "known_fact": "Plan to cancel no fewer than 41 space missions, including some already paid for and launched.",
+      "gap_statement": "Questions those missions owned will never mint a measurement. The unknown dies as a research object without a negative result.",
+      "notes": "Institutional dual. Iterate #2. Not a natural kind. PENALIZED, not promoted.",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": true
+      },
+      "prior_class_overlap": "INSTITUTIONAL"
+    },
+    {
+      "id": "ODL_10000_UNSEEN",
+      "name": "99.999% unseen seafloor can lose ecosystems with no before-image",
+      "realm": "ocean",
+      "sense": "vision",
+      "status": "PENALIZED",
+      "score": 36.0,
+      "failed_gates": [
+        "G4"
+      ],
+      "reasons": [
+        "Soft archive overlap: UND \u2014 penalized, not promoted"
+      ],
+      "source": "Bell et al. Science Advances 2025-05-07; ODL Global Deep Sea Exploration Goals 2026-04/2026-09-09",
+      "source_date": "2026-09-09",
+      "known_fact": "Visual coverage of deep seafloor 0.0006\u20130.001% (max 3,823 km\u00b2 of 335.7 million km\u00b2). 65% of dives within 200 nm of US/Japan/NZ. 10,000 target sites proposed to nearly double unique locations.",
+      "gap_statement": "A site never imaged cannot generate a before/after extinction record. The 10,000-site grid is a sampling design, not a census of what can already have ceased.",
+      "notes": "PENALIZE: closest to Undersampling. UCC holds only for the cessation-without-before-image slice, not the unseen-as-unseen.",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true,
+        "G4": false,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": true
+      },
+      "prior_class_overlap": "UND"
+    },
+    {
+      "id": "MESOPELAGIC_FLUX",
+      "name": "Mesopelagic carbon-export carriers unnamed in a 0.3\u201340% span",
+      "realm": "ocean",
+      "sense": "chemical",
+      "status": "PENALIZED",
+      "score": 32.56,
+      "failed_gates": [
+        "G8"
+      ],
+      "reasons": [
+        "Soft archive overlap: IOA \u2014 penalized, not promoted"
+      ],
+      "source": "WHOI twilight-zone expert survey (93 experts, 26 countries); WIRED mesopelagic; NSF PAR",
+      "source_date": "2025-2026",
+      "known_fact": "62\u201387% of experts judged understanding of fishing/climate/mining/pollution impacts as limited. Mesopelagic contribution to biological carbon pump estimated anywhere from 0.3% to 40%.",
+      "gap_statement": "A planetary flux sits in climate arithmetic; the fish that carry it are mostly unnamed and uncounted. A fishery decision cannot generate a species-level mortality ledger.",
+      "notes": "PENALIZE: IOA owns two-scale carbon pump without a transfer function. UCC slice is nameless carriers, not missing operator.",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": false
+      },
+      "prior_class_overlap": "IOA"
+    },
+    {
+      "id": "INSECT_450YR",
+      "name": "Insect Linnaean clock vs unnamed cessation",
+      "realm": "animals",
+      "sense": "vision",
+      "status": "PENALIZED",
+      "score": 27.77,
+      "failed_gates": [
+        "G5"
+      ],
+      "reasons": [
+        "Soft archive overlap: CIC \u2014 penalized, not promoted"
+      ],
+      "source": "npj Biodiversity 2025; ~10,000 insect spp/year vs ~5.5 million estimated",
+      "source_date": "2025",
+      "known_fact": "At ~10,000 newly described insect species per year it would take ~450 years to name an estimated 5.5 million.",
+      "gap_statement": "Most insect cessations in the next century will have no species-level death certificate.",
+      "notes": "PENALIZE: CIC already owns rate-vs-rate. UCC slice is the nameless deaths, not the two clocks.",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true,
+        "G4": true,
+        "G5": false,
+        "G6": true,
+        "G7": true,
+        "G8": true
+      },
+      "prior_class_overlap": "CIC"
+    },
+    {
+      "id": "FUNGAL_HYPHAE_FUNCTION",
+      "name": "110 quadrillion km fungal filaments \u2014 function claims exceed evidence",
+      "realm": "land",
+      "sense": "chemical",
+      "status": "PENALIZED",
+      "score": 23.94,
+      "failed_gates": [
+        "G1",
+        "G8"
+      ],
+      "reasons": [
+        "Entity has or can mint a durable identifier",
+        "Soft archive overlap: IOA \u2014 penalized, not promoted"
+      ],
+      "source": "The Conversation 2026-06-12; global mycorrhizal mapping; 3.12 Gt CO2e/year into soil",
+      "source_date": "2026-06-12",
+      "known_fact": "Topsoils contain ~110 quadrillion km of living fungal filaments; AM fungi channel an estimated 3.12 billion tonnes CO2e/year into soil. Wood-wide-web active-sharing claims exceed evidence.",
+      "gap_statement": "A mapped length is not a named function. Cessation of a functional guild has no certificate if the guild was never functionally identified.",
+      "notes": "PENALIZE: IOA / wood-wide-web Type I retain. Length is an identifier of a kind; function is the missing operator.",
+      "gates": {
+        "G1": false,
+        "G2": true,
+        "G3": true,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": false
+      },
+      "prior_class_overlap": "IOA"
+    },
+    {
+      "id": "GHOST_PALM_LAG",
+      "name": "Ghost palm 92-year identifier lag",
+      "realm": "land",
+      "sense": "time",
+      "status": "PENALIZED",
+      "score": 20.84,
+      "failed_gates": [
+        "G1",
+        "G3"
+      ],
+      "reasons": [
+        "Entity has or can mint a durable identifier",
+        "A ledger can already record this cessation"
+      ],
+      "source": "Kew 2026 (Plectocomiopsis hantu)",
+      "source_date": "2026-09-10",
+      "known_fact": "Named 92 years after first collection.",
+      "gap_statement": "A collected specimen can sit unnamed longer than many plant populations persist. The lag itself is a certificate-absence window.",
+      "notes": "Used as ILW iterate primary, not as winning UCC instance (identifier now exists).",
+      "gates": {
+        "G1": false,
+        "G2": true,
+        "G3": false,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": true
+      },
+      "prior_class_overlap": ""
+    },
+    {
+      "id": "H0_TENSION",
+      "name": "Hubble tension",
+      "realm": "space",
+      "sense": "time",
+      "status": "PENALIZED",
+      "score": 9.09,
+      "failed_gates": [
+        "G1",
+        "G2",
+        "G3",
+        "G8"
+      ],
+      "reasons": [
+        "Entity has or can mint a durable identifier",
+        "Cessation not evidenced as currently possible",
+        "A ledger can already record this cessation",
+        "Soft archive overlap: FAC \u2014 penalized, not promoted"
+      ],
+      "source": "H0DN 73.50\u00b10.81; Planck+SPT+ACT 67.24\u00b10.35; ~7\u03c3",
+      "source_date": "2026-04",
+      "known_fact": "Local Distance Network H0 = 73.50 \u00b1 0.81 km s\u22121 Mpc\u22121; CMB 67.24 \u00b1 0.35; >6\u20137\u03c3.",
+      "gap_statement": "n/a \u2014 FAC owns the tension.",
+      "notes": "KILLED/RETAIN FAC. Identifier exists (H0).",
+      "gates": {
+        "G1": false,
+        "G2": false,
+        "G3": false,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": false
+      },
+      "prior_class_overlap": "FAC"
+    },
+    {
+      "id": "LYA_DE_SIGNFLIP",
+      "name": "DESI Ly\u03b1 full-shape July 2026 pulls evolving-DE residual toward \u039bCDM",
+      "realm": "space",
+      "sense": "time",
+      "status": "KILLED",
+      "score": 0.0,
+      "failed_gates": [
+        "G1",
+        "G3",
+        "G7"
+      ],
+      "reasons": [
+        "Entity has or can mint a durable identifier",
+        "A ledger can already record this cessation",
+        "Hard archive overlap: PPC"
+      ],
+      "source": "DESI Collaboration / Turner, 2026-07-30; DESI DR2 Ly\u03b1 full-shape",
+      "source_date": "2026-07-30",
+      "known_fact": "Full-shape Ly\u03b1 forest measurements have smaller uncertainty and a central value that shifts toward \u039bCDM relative to BAO-only evolving-DE preference.",
+      "gap_statement": "The residual that licensed DE patches may be withdrawing; papers that patched it are not withdrawn.",
+      "notes": "KILLED as UCC: this is PPC's next move (orphan patch), not certificate-absence. Logged as adjacent, not reclaimed.",
+      "gates": {
+        "G1": false,
+        "G2": true,
+        "G3": false,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": false,
+        "G8": true
+      },
+      "prior_class_overlap": "PPC"
+    },
+    {
+      "id": "DARK_DIMENSION",
+      "name": "Dark-dimension coupling of DE \u00d7 DM",
+      "realm": "space",
+      "sense": "time",
+      "status": "KILLED",
+      "score": 0.0,
+      "failed_gates": [
+        "G1",
+        "G2",
+        "G3",
+        "G7"
+      ],
+      "reasons": [
+        "Entity has or can mint a durable identifier",
+        "Cessation not evidenced as currently possible",
+        "A ledger can already record this cessation",
+        "Hard archive overlap: PPC"
+      ],
+      "source": "PPC primary 2026-09-08",
+      "source_date": "2026-09-08",
+      "known_fact": "PPC primary. Extra unobservable DOF coupling two TAC objects.",
+      "gap_statement": "n/a \u2014 PPC owns this.",
+      "notes": "KILLED. Yesterday's primary.",
+      "gates": {
+        "G1": false,
+        "G2": false,
+        "G3": false,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": false,
+        "G8": true
+      },
+      "prior_class_overlap": "PPC"
+    },
+    {
+      "id": "DEEP_BIOSPHERE_INTERVALS",
+      "name": "Deep-biosphere low- or no-cell intervals",
+      "realm": "earth",
+      "sense": "touch",
+      "status": "KILLED",
+      "score": 0.0,
+      "failed_gates": [
+        "G8"
+      ],
+      "reasons": [
+        "Hard archive overlap: DBH"
+      ],
+      "source": "Deep biosphere reviews; Wikipedia Deep biosphere 2026-09-06 citing unknown reasons for no-cell intervals",
+      "source_date": "2026-09-06",
+      "known_fact": "Deep biosphere ~2\u20132.3 billion km\u00b3, carbon 15\u201323 billion tonnes. Low- or no-cell intervals exist; reasons unknown. Absolute limits of life not found.",
+      "gap_statement": "A subsurface community that ceased leaves no fossil certificate at those depths; the interval is an absence, not a death record.",
+      "notes": "KILLED: Dark Biosphere Hypothesis overlap. Do not reclaim.",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": false
+      },
+      "prior_class_overlap": "DBH"
+    },
+    {
+      "id": "HADAL_INCERTA",
+      "name": "Hadal Animalia incerta sedis",
+      "realm": "ocean",
+      "sense": "vision",
+      "status": "ZEROED",
+      "score": 0.0,
+      "failed_gates": [
+        "ZEROED_CONTROL"
+      ],
+      "reasons": [
+        "Archive-zeroed control: hadal Animalia incerta sedis"
+      ],
+      "gates": {}
+    },
+    {
+      "id": "CONSCIOUSNESS",
+      "name": "Hard problem of consciousness",
+      "realm": "humans",
+      "sense": "proprioception",
+      "status": "KILLED",
+      "score": 0.0,
+      "failed_gates": [
+        "G1",
+        "G2",
+        "G3",
+        "G8"
+      ],
+      "reasons": [
+        "Entity has or can mint a durable identifier",
+        "Cessation not evidenced as currently possible",
+        "A ledger can already record this cessation",
+        "Hard archive overlap: CONSCIOUSNESS"
+      ],
+      "source": "archive refused",
+      "source_date": "n/a",
+      "known_fact": "Archive-refused across sessions.",
+      "gap_statement": "n/a",
+      "notes": "KILLED. Archive-refused. Not a back door.",
+      "gates": {
+        "G1": false,
+        "G2": false,
+        "G3": false,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": false
+      },
+      "prior_class_overlap": "CONSCIOUSNESS"
+    },
+    {
+      "id": "MIDWATER_GELATA",
+      "name": "Midwater gelatinous fauna destroyed by nets before description",
+      "realm": "ocean",
+      "sense": "touch",
+      "status": "KILLED",
+      "score": 0.0,
+      "failed_gates": [
+        "G6"
+      ],
+      "reasons": [
+        "Hard archive overlap: DIC"
+      ],
+      "source": "Falkor (too) tropical South Atlantic, April 2026; Osborn/Smithsonian; 31 species in ~2 weeks",
+      "source_date": "2026-07-25",
+      "known_fact": "Midwater is ~90% of Earth's living space. Nets and preservatives destroy gelatinous bodies. April 2026 cruise identified 31 species new to science in ~15 days.",
+      "gap_statement": "A body plan that cannot survive collection cannot enter the catalog; its regional cessation is unrecordable.",
+      "notes": "KILLED as UCC primary: DIC owns seen-object-consumed-by-protocol. Digital-specimen work is the DIC surrogate.",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true,
+        "G4": true,
+        "G5": true,
+        "G6": false,
+        "G7": true,
+        "G8": true
+      },
+      "prior_class_overlap": "DIC"
+    },
+    {
+      "id": "DARK_OXYGEN",
+      "name": "Nodule dark oxygen",
+      "realm": "ocean",
+      "sense": "chemical",
+      "status": "ZEROED",
+      "score": 0.0,
+      "failed_gates": [
+        "ZEROED_CONTROL"
+      ],
+      "reasons": [
+        "Archive-zeroed control: nodule dark oxygen"
+      ],
+      "gates": {}
+    },
+    {
+      "id": "MICROBIAL_DARK_GENES",
+      "name": "Unannotated environmental genes lost before function assignment",
+      "realm": "earth",
+      "sense": "chemical",
+      "status": "KILLED",
+      "score": 0.0,
+      "failed_gates": [
+        "G8"
+      ],
+      "reasons": [
+        "Hard archive overlap: TAC"
+      ],
+      "source": "MDM literature; >50% genes neither functionally nor taxonomically annotated at 95% ID (Fondi et al. re-cited)",
+      "source_date": "2024-2026 reviews",
+      "known_fact": "Most environmental genes in metagenomes lack function and taxon assignment; <2% of microbes are cultured.",
+      "gap_statement": "A gene variant can disappear from an environment before anyone knows what it did.",
+      "notes": "PENALIZE/KILL toward TAC: 'microbial dark matter' is a named-dark signal. UCC only if we refuse the 'dark' label and treat absence of ID as certificate-absence.",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": false
+      },
+      "prior_class_overlap": "TAC"
+    },
+    {
+      "id": "WIMP_MAJORITY_DEATH",
+      "name": "WIMP-as-default ceased as majority without textbook death certificate",
+      "realm": "space",
+      "sense": "time",
+      "status": "KILLED",
+      "score": 0.0,
+      "failed_gates": [
+        "G1",
+        "G3",
+        "G7"
+      ],
+      "reasons": [
+        "Entity has or can mint a durable identifier",
+        "A ledger can already record this cessation",
+        "Hard archive overlap: PPC"
+      ],
+      "source": "Afshordi et al. APS Physics 19, 34 (2026-05-12); arXiv:2605.11058; WIMP 10%",
+      "source_date": "2026-05-12",
+      "known_fact": "WIMP chosen by only 10% of surveyed physicists; axion 17%; modified gravity 22%; hybrid 21%. \u039b only ~25%.",
+      "gap_statement": "A standard-bearer hypothesis can lose majority without a successor being sworn in, and without textbooks recording a death.",
+      "notes": "KILLED: PPC owns pipeline-intact after majority loss. Identifier exists (the word WIMP).",
+      "gates": {
+        "G1": false,
+        "G2": true,
+        "G3": false,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": false,
+        "G8": true
+      },
+      "prior_class_overlap": "PPC"
+    }
+  ],
+  "iterate_ilw": [
+    {
+      "collected_year": 1933,
+      "named_year": 2025,
+      "lag_years": 92,
+      "still_unnamed": false,
+      "window_exceeds_lifetime": true,
+      "status": "NAMED_AFTER_PLAUSIBLE_DEATH"
+    },
+    {
+      "collected_year": 2010,
+      "named_year": null,
+      "lag_years": 16,
+      "still_unnamed": true,
+      "window_exceeds_lifetime": true,
+      "status": "UCC_HOLDS_ON_COLLECTED"
+    },
+    {
+      "collected_year": 2020,
+      "named_year": null,
+      "lag_years": 6,
+      "still_unnamed": true,
+      "window_exceeds_lifetime": false,
+      "status": "OPEN_LAG"
+    }
+  ],
+  "iterate_witness_retraction": {
+    "cancelled_count": 41,
+    "questions_owned": 41,
+    "replacement_funded": false,
+    "institutional": true,
+    "status": "PENALIZED_INSTITUTIONAL_DUAL",
+    "score": 36.0,
+    "promoted": false,
+    "note": "NASA-class cancellation can kill a witness; it does not name a natural kind."
+  },
+  "archived_classes_subtracted": [
+    "Dark Biosphere Hypothesis",
+    "Cosmic-Bio Resonance",
+    "Undersampling",
+    "Deep-biosphere-as-space-prior",
+    "Ritual Nyquist Law",
+    "Transducer-Absence Class (TAC)",
+    "Cadence Mismatch",
+    "Named-Cause Residual (NCR)",
+    "Failed-Adjudication Class (FAC)",
+    "Clock-Incommensurability Class (CIC)",
+    "Join-Absence Class (JAC)",
+    "Interscale-Operator Absence Class (IOA)",
+    "Destructive-Inquiry Class (DIC)",
+    "Patch-Proliferation Class (PPC)"
+  ],
+  "zeroed_controls": [
+    "nodule dark oxygen",
+    "universal dark-fraction",
+    "wood-wide web Type I",
+    "Hubble tension as object",
+    "consciousness hard problem",
+    "hadal Animalia incerta sedis",
+    "dark dimension DE x DM coupling",
+    "K2-18b DMS-as-life",
+    "magnetoreceptor cell",
+    "Cosmic-Bio Resonance",
+    "Dark Biosphere"
+  ],
+  "claim_hygiene": "Research-stage classification. Not a physical discovery, not peer review, not a patent. Scores are a classification heuristic, not measurements of nature. Kew named the Katu\u0161 shortfall for plants/fungi; this session does not claim that coinage. The class is the cross-realm remainder after fourteen archived classes."
+}

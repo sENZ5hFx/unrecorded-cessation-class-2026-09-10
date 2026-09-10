@@ -1,0 +1,60 @@
+{
+  "mode": "co_primary",
+  "delta": 0.6,
+  "epsilon": 2.0,
+  "primaries": [
+    {
+      "id": "CCZ_UNNAMED",
+      "name": "Clarion-Clipperton Zone unnamed fauna under mining contracts",
+      "realm": "ocean",
+      "sense": "touch",
+      "status": "STRUCTURAL_GAP",
+      "score": 90.16,
+      "failed_gates": [],
+      "reasons": [],
+      "source": "NHM CCZ checklist; Earth.com 2026-09-09; ISA 17 exploration contracts",
+      "source_date": "2026-09-09",
+      "known_fact": "5,578 animal species recorded in the CCZ; only 436 formally described; 88\u201392% lack names; 17 international exploration contracts sit on the same seafloor.",
+      "gap_statement": "Extraction licensed against organisms that have no Red List identity, hence no legal death. Census is not a precondition of the license.",
+      "notes": "Not DIC (the habitat, not a single seen specimen, is consumed). Not CIC (the issue is namelessness, not clock mismatch).",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": true
+      },
+      "prior_class_overlap": ""
+    },
+    {
+      "id": "KATUS_KEW_2026",
+      "name": "Katu\u0161 shortfall \u2014 unrecorded plant/fungal extinction",
+      "realm": "land",
+      "sense": "vision",
+      "status": "STRUCTURAL_GAP",
+      "score": 89.56,
+      "failed_gates": [],
+      "reasons": [],
+      "source": "Kew, State of the World's Plants and Fungi 2026",
+      "source_date": "2026-09-10",
+      "known_fact": "29,748 plant species and 411 fungal species assessed as threatened; only 18% of plants and 0.6% of fungi have been assessed; >100,000 plant species and >2 million fungal species remain unnamed; 4,600 plants and 7,800 fungi newly named in 2024\u20132025; ghost palm Plectocomiopsis hantu named 92 years after first collection. Kew names this the Katu\u0161 shortfall: unrecorded loss of known AND unknown species.",
+      "gap_statement": "An unnamed plant or fungus can go extinct without minting a death certificate. Red List cannot list what has no name. The loss is real; the record is structurally impossible.",
+      "notes": "TODAY'S LOCK. Kew named the biodiversity instance. Class is the cross-realm remainder.",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true,
+        "G4": true,
+        "G5": true,
+        "G6": true,
+        "G7": true,
+        "G8": true
+      },
+      "prior_class_overlap": ""
+    }
+  ],
+  "reason": "Top two STRUCTURAL_GAP scores differ by 0.60 <= 2.0. Freshness lock is not allowed to be hidden by industrial_pressure."
+}

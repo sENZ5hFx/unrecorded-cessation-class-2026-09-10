@@ -1,0 +1,39 @@
+========================================================================
+WINNING CLASS: Unrecorded-Cessation Class
+novelty_cap 0.47 | coherence 0.76
+STRUCTURAL_GAP 4 | PENALIZED 7 | KILLED 7 | ZEROED 2
+primary CCZ_UNNAMED 90.16
+========================================================================
+
+  score  status            realm     name
+------------------------------------------------------------------------
+  90.16  STRUCTURAL_GAP    ocean     Clarion-Clipperton Zone unnamed fauna under mining contracts
+  89.56  STRUCTURAL_GAP    land      Katuš shortfall — unrecorded plant/fungal extinction
+  76.04  STRUCTURAL_GAP    land      Soil nematode cessations without species identity
+  61.20  STRUCTURAL_GAP    humans    Last-speaker ecological knowledge cessation
+  38.34  PENALIZED         space     41 NASA science missions cancelled — witness retraction
+  36.00  PENALIZED         ocean     99.999% unseen seafloor can lose ecosystems with no before-image
+  32.56  PENALIZED         ocean     Mesopelagic carbon-export carriers unnamed in a 0.3–40% span
+  27.77  PENALIZED         animals   Insect Linnaean clock vs unnamed cessation
+  23.94  PENALIZED         land      110 quadrillion km fungal filaments — function claims exceed evidence
+  20.84  PENALIZED         land      Ghost palm 92-year identifier lag
+   9.09  PENALIZED         space     Hubble tension
+   0.00  KILLED            space     DESI Lyα full-shape July 2026 pulls evolving-DE residual toward ΛCDM
+   0.00  KILLED            space     Dark-dimension coupling of DE × DM
+   0.00  KILLED            earth     Deep-biosphere low- or no-cell intervals
+   0.00  ZEROED            ocean     Hadal Animalia incerta sedis
+   0.00  KILLED            humans    Hard problem of consciousness
+   0.00  KILLED            ocean     Midwater gelatinous fauna destroyed by nets before description
+   0.00  ZEROED            ocean     Nodule dark oxygen
+   0.00  KILLED            earth     Unannotated environmental genes lost before function assignment
+   0.00  KILLED            space     WIMP-as-default ceased as majority without textbook death certificate
+
+ITERATE 1 — Identifier-Lag Window
+  collected 1933 named 2025 lag=92y  NAMED_AFTER_PLAUSIBLE_DEATH
+  collected 2010 named None lag=16y  UCC_HOLDS_ON_COLLECTED
+  collected 2020 named None lag=6y  OPEN_LAG
+
+ITERATE 2 — Witness-Retraction (institutional dual, not promoted)
+  {'cancelled_count': 41, 'questions_owned': 41, 'replacement_funded': False, 'institutional': True, 'status': 'PENALIZED_INSTITUTIONAL_DUAL', 'score': 36.0, 'promoted': False, 'note': 'NASA-class cancellation can kill a witness; it does not name a natural kind.'}
+
+Research-stage classification. Not a physical discovery, not peer review, not a patent. Scores are a classification heuristic, not measurements of nature. Kew named the Katuš shortfall for plants/fungi; this session does not claim that coinage. The class is the cross-realm remainder after fourteen archived classes.
